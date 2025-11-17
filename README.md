@@ -1,9 +1,9 @@
-# Aisiora
+# Artin
 
 ## Policy
 
-https://ditustudio.github.io/mitu/policy.html
+https://ditustudio.github.io/artin/policy.html
 
 ## Term
 
-https://ditustudio.github.io/mitu/term.html
+https://ditustudio.github.io/artin/term.html
